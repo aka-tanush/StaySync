@@ -1,0 +1,2 @@
+com\staysync\apigateway\security\JwtGatewayFilter.class
+com\staysync\apigateway\config\CorsConfig.class
